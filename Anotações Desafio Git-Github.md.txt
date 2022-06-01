@@ -1,3 +1,2 @@
-# Anotações do Desafio Git/Github 
-
+# Anotações do Desafio Git/Github
 Repositório criado para inserir as atividades. Essa é a primeira atividade, criação do repositório. 
